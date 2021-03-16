@@ -1,4 +1,4 @@
-###Install dependencies:
+### Install dependencies:
 
     Fedora Linux Install:
       - sudo yum install qt5
@@ -10,7 +10,7 @@
 
 
 
-###Compile:
+### Compile:
   Once you download QT5, locate the include and lib and set in makefile in:
 
 	example:
@@ -23,7 +23,7 @@
 
 Note: MAC OSX versions have different behaviours in compilation due stat/stat.h or qt5 libraries
 
-###Run:
+### Run:
 
 a FileDownloader binary will be created in bin/ folder
 
